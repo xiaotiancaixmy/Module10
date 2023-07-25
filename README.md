@@ -5,5 +5,5 @@
 
 <table>
   <tr>
-    <td colspan="2"> <img src="./bokeh_plot.png" alt="" style="width: 800px;"/> </td>
+    <td colspan="2"> <img src="./bokeh_plot.png" alt="" style="width: 2000px;"/> </td>
   </tr>
