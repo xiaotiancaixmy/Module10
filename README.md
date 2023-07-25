@@ -1,9 +1,6 @@
 # Module10
 
-[Plot#1](./bokeh_plot.png)
-
-
-<table>
+<plot>
   <tr>
-    <td colspan="2"> <img src="./bokeh_plot.png" alt="" style="width: 100%;"/> </td>
+    <td colspan="2"> <img src="./bokeh_plot.png" alt="" style="width: 60%;"/> </td>
   </tr>
